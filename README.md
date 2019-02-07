@@ -1,6 +1,6 @@
 # eSave
 Mobile Android application that acts as a way to keep track of the amount of money you currently have within your bank account.<br/>
-The purpose of this application was to up-skill myself by learning how to write and android application.<br/>
+The purpose of this application was to up-skill myself by learning how to write an android application.<br/>
 The application does not work to the full extent as to what I imagined but it does however have the core functions:<br/>
 - keeping track of money within your money.
 - allows you to add money
